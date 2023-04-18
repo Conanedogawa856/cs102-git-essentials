@@ -1,0 +1,6 @@
+Git hub commands
+1)git add - it is used to stag or track the files in the repository
+2)git clone - it is used to copy the repository from the git to your local machine
+3)git commit - it is used to commit the changes made in the repository
+4)git push - it is used to save the changes in the git 
+5)git status - it tells the status of your repository whether it is stagged comittid or pushed
