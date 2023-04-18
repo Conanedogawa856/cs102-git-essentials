@@ -1,6 +1,13 @@
 Git hub commands
+
 1)git add - it is used to stag or track the files in the repository
 2)git clone - it is used to copy the repository from the git to your local machine
 3)git commit - it is used to commit the changes made in the repository
 4)git push - it is used to save the changes in the git 
 5)git status - it tells the status of your repository whether it is stagged comittid or pushed
+
+
+
+Markdown is a lightweight markup language used to format text. It allows users to write text using a simple syntax that is easy to read and write, while also providing a way to add formatting, such as headers, bold or italicized text, lists, links, and images.
+
+Markdown converters are software tools that take Markdown text as input and convert it to HTML or other formats, such as PDF or Word documents. Markdown converters are useful because they allow users to write in Markdown format, which is easier and more efficient than writing in HTML directly, and then convert the Markdown text to HTML or other formats for display or distribution. There are many different Markdown converters available, ranging from simple command-line tools to more advanced applications with user interfaces and additional features.
